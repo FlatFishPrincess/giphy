@@ -1,12 +1,8 @@
-## Search Gif image
-implement saga
+### Search Gif image
+- implement saga
+- react hook 
 
-- need to add more feature (just thinking) 
+## need to add more feature (just thinking) 
 -- css 
 -- typescript 
-
-In the project directory,
-### you should install module first, `npm install` 
-
-then, you can run: 
-### `npm start`
+-- search more but not duplicate random number
